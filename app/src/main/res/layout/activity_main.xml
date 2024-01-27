@@ -159,8 +159,8 @@
 
     <TextView
         android:id="@+id/textView2"
-        android:layout_width="385dp"
-        android:layout_height="101dp"
+        android:layout_width="376dp"
+        android:layout_height="106dp"
         android:text="Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity. "
         android:textColor="#FAF9F9"
         android:textSize="16sp"
